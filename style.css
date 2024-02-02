@@ -1,0 +1,30 @@
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a {
+    color: rgb(0, 128, 255)
+}
+
+a.two {
+   color: lime;
+}
+
+a.three {
+    color: yellow;
+}
+
+a.four {
+    color: orange;
+}
+
+a.five {
+    color: red;
+}
+
+body {
+  background-color: rgba(128, 0, 255, 0.25)
+}
