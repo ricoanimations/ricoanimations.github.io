@@ -1,8 +1,5 @@
-2048
-BITLIFE
 Death Run 3D
 Duck Life (1 + 2 + 3)
-Friday Night Funkin' (Dave and Bambi + Golden Apple + Bambi's Purgatory)
 Helix Jump
 Learn to Fly (1 + 2 + 3)
 Oregon Trail
@@ -13,4 +10,4 @@ Run (1 + 2 + 3)
 Slither.io
 Slope (Other Versions)
 Snake
-Vex (5 + 7)
+Vex (Other Sequels)
