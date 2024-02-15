@@ -6,23 +6,7 @@
 }
 
 a {
-    color: rgb(0, 128, 255)
-}
-
-a.two {
-   color: lime;
-}
-
-a.three {
-    color: yellow;
-}
-
-a.four {
-    color: orange;
-}
-
-a.five {
-    color: red;
+    color: rgb(0, 96, 255)
 }
 
 body {
